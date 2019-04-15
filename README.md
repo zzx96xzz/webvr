@@ -10,9 +10,9 @@ Installing
 -----
 To use the latest stable build of A-frame : aframe-v0.9.0.js <br>
 If used to develop and debug code, use the build of A-frame: aframe-master.js <br>
-In the index.html file, we need to modify the the path of the aframe-masters.js if you serve it by yourself <br>
+In the hello.html file, we need to modify the the path of the aframe-masters.js if you serve it by yourself <br>
 
 Running the tests
 -----
-Select an image that meets the requirements of webvr or a random image for the test, add it to a file on your local server, and read its path in index.html <br>
+Select an image that meets the requirements of webvr or a random image for the test, add it to a file on your local server, and read its path in hello.html <br>
 Open in your browser 127.0.0.1
